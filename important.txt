@@ -1,0 +1,4 @@
+This project require creation of folder
+ path   "/home/mojojojo/Adapter-IDEProjects"
+ create all projects inside this folder
+
